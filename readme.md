@@ -74,7 +74,7 @@ ECO mode is automatically activated at the set time and then returns to the prev
 <p align="center"/><
 
 
-="https://github.com/mariocandida80/cronotermostato/blob/master/esempi/eco.png"> </p>
+="https://github.com/mariocandida80/Home-Assistant-Cronothermostat/blob/master/picture/eco.png"> </p>
 From the home page, clicking on the leaf at the top right, the eco mode settings menu will open.<br>
 Here you can enter the on and off times of the mode and the temperature to be set when this mode is activated.<br>
 By clicking on the arrow at the top right you will return to the home page.<br><br>
