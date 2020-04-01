@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Version-1.3.6-green">  <a href="https://forum.hassiohelp.eu/d/503-package-cronotermostato"><img src="https://img.shields.io/badge/Forum-hassiohelp-blue"> </a>
+<img src="https://img.shields.io/badge/Version-1.3.6-green">  <a href="https://forum.hassiohelp.eu/d/503-package-cronotermostato"><img src="https://img.shields.io/badge/Forum-hassiohelp-blue"> </a> 
 <img src="https://img.shields.io/badge/Update-yes-orange"> <a href="https://www.buymeacoffee.com/mariocandida80"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="90" alt="Buy Me A Coffee"> </a>
 <br>
 If you want the weekly version, you can find it  <a href="https://github.com/mariocandida80/addon_settimanale">here</a>.
