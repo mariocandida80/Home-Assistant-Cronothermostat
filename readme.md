@@ -71,10 +71,7 @@ ECO:  set a lower temperature, ideal for the night or if you want to leave a low
 
 When the thermostat is on, in any mode except OFF, it will remain on until it reaches the set temperature and will turn on again if the temperature drops again.<br>
 ECO mode is automatically activated at the set time and then returns to the previous mode and the previous temperature once it arrives at the set time to switch off the ECO mode. You can also activate it manually by clicking on the ECO button. To deactivate it, simply choose a different mode and the previously set temperature will also return. If you want to deactivate ECO mode with the times set, you can do it from the settings menu.<br>
-<p align="center"/><
-
-
-="https://github.com/mariocandida80/Home-Assistant-Cronothermostat/blob/master/picture/eco.png"> </p>
+<p align="center"/><="https://github.com/mariocandida80/Home-Assistant-Cronothermostat/blob/master/picture/eco.png"> </p>
 From the home page, clicking on the leaf at the top right, the eco mode settings menu will open.<br>
 Here you can enter the on and off times of the mode and the temperature to be set when this mode is activated.<br>
 By clicking on the arrow at the top right you will return to the home page.<br><br>
