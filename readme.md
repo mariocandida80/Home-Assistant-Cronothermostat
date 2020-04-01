@@ -5,7 +5,7 @@ If you want the weekly version, you can find it  <a href="https://github.com/mar
 
 <p align="center"/> <b>Cronothermostat Package for Home Assistant.</b> <br> </p>
 
-<p align="center"/><img src="https://github.com/mariocandida80/Home-Assistant-Cronothermostat/tree/master/picture/home.png" alt="Immagine cronotermostato"></p>
+<p align="center"/><img src="https://github.com/mariocandida80/Home-Assistant-Cronothermostat/blob/master/picture/home.png" alt="Immagine cronotermostato"></p>
 This package creates a series of entities and automations to make sure that the thermostat works in various modes that can be selected by the user and that it is possible to turn it on at certain times and whether or not you are at home.
 Let's see how to install it. <br>
 <br>
